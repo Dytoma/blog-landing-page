@@ -34,7 +34,7 @@ This is a screenshot to my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://dytoma.github.io/blog-landing-page/)
 - Live Site URL: [Live site URL](https://github.com/Dytoma/blog-landing-page)
 
 ### Built with
